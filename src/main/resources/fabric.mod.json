@@ -1,0 +1,7 @@
+{
+    "schemaVersion": 1,
+    "id": "origins-mods-fabric",
+    "name": "Origins Mods Fabric",
+    "version": "1.0.0",
+    "environment": "*"
+}
