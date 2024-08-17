@@ -1,0 +1,8 @@
+{
+    "type": "apoli:modify_lava_speed",
+    "modifier": {
+        "id": "*:*",
+        "operation": "multiply_total",
+        "value": 2
+    }
+}
